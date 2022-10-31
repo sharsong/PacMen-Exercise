@@ -1,6 +1,6 @@
 # PacMen Exercise
 
-Add PacMen by click and click run to start movement of PacMen
+Add individual PacMen by clicking the "Add PacMan" button and click the "Start Game" button to start the movement of all created PacMen.
 
 Run by dragging index.html to your browser
 
